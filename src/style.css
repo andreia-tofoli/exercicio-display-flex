@@ -22,23 +22,27 @@ main{
 }
 
 .conteudo-principal{
-    grid-area: conteudo-principal;
-   
+    grid-area: conteudo-principal;   
 }
+
+
 
 .conteudo-principal .descricao .titulo{
     font-size: 18px;
     font-weight: 700;
+    margin-top: 12px;
 }
 
 .conteudo-principal .descricao .visualizacoes {
     font-size: 14px;
     font-weight: 300;
+    margin-top: 7px;
 }
 
 .conteudo-principal .descricao .texto{
     font-size: 16px;
-    font-weight: 300;   
+    font-weight: 300;
+    margin-top: 9px;   
 }
 
 .propaganda {
@@ -47,20 +51,9 @@ main{
 
 }
 
-.propaganda img {
-
-
-}
-
 .videos-sugeridos{
-    grid-area: videos-sugeridos;
-  
-   
+    grid-area: videos-sugeridos;   
 } 
-
-.videos {
-   
-}
 
 .video{
     display: flex;
@@ -71,10 +64,16 @@ main{
 .video .descricao-videos h2{
     font-size: 14px;
     font-weight: 700;
+    margin-bottom:7px;
+   
 }
 
 .video .descricao-videos p{
 font-size: 11px;
 font-weight: 300;
+margin-top: 5px;
+}
 
+img{
+    height: 100%;
 }
