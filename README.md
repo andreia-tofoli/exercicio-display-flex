@@ -6,7 +6,7 @@ Este repositório contém um exercício prático para aplicar conceitos de CSS G
 O projeto foi criado com o intuito de explorar o CSS Grid, uma ferramenta poderosa para criar layouts de página com áreas bem definidas. Aqui, o Display Grid é utilizado para organizar o conteúdo principal de um vídeo em destaque, uma área de propaganda, e uma seção de vídeos sugeridos.
 
 ## Exemplo do Projeto
-Aqui está uma prévia de como o menu fica na tela:
+Aqui está uma prévia de como fica na tela:
 
 ![Versão Desktop](src/Layout/Versao%20Desktop.png)
 
